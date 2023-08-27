@@ -25,13 +25,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div> 
-
-<div align-"center"
-- username=[사용자이름]
-- langs_count=[화면에 표기될 언어갯수]
-- layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
-- theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
-- ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
-
-  </div>
-
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu-Seong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jisu-Seong&show_icons=true">
+</div>
