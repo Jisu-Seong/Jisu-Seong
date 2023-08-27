@@ -1,6 +1,6 @@
 # Hello World!
 
-:wrench: <a name="tech">기술 스택</a>
+:wrench: <a name="tech"></a>
 
 <div align="left">
   
