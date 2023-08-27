@@ -1,4 +1,4 @@
-# Jisu-Seong
+# Hello World!
 
 :wrench: <a name="tech">기술 스택</a>
 
