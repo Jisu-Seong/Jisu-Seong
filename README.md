@@ -30,3 +30,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu-Seong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Jisu-Seong&show_icons=true">
 </div>
+
+
+[포트폴리오](https://jisu-seong.github.io/portfolio/)
