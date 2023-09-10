@@ -32,4 +32,4 @@
 </div>
 
 
-[포트폴리오](https://jisu-seong.github.io/portfolio/)
+[Portfolio](https://jisu-seong.github.io/portfolio/)
