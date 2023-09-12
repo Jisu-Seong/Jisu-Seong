@@ -2,9 +2,14 @@
 # Hello World!
 
 <div align="center">
- <a name="tech">I can</a>
+
+:raising_hand:
+
+:pushpin: [Portfolio](https://jisu-seong.github.io/portfolio/)  :pushpin:
+ 
+:triangular_flag_on_post: I can
+
 </div>
-</br>
 <div align="center">
   
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -31,5 +36,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Jisu-Seong&show_icons=true">
 </div>
 
-
-[Portfolio](https://jisu-seong.github.io/portfolio/)
