@@ -10,6 +10,9 @@
 
 :pushpin: [Portfolio](https://jisu-seong.github.io/portfolio/)  :pushpin:
 
+:pencil: [Study Note](https://almondine-talk-d7f.notion.site/Repo-a3a7f1bbab7e491b92e0d09aef7d20ce?pvs=4) :pencil:
+
+
 </div>
 
 </br>
@@ -18,7 +21,7 @@
 
 ### :books: Tech Stack :books:
  
-:pencil2: Platform & Languages :pencil2:
+:black_nib: Platform & Languages :black_nib:
 
 </div>
 
