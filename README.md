@@ -1,12 +1,27 @@
-# Hello World!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A6FF4D&height=190&section=header&text=Jisu-Seong&fontSize=50&fontColor=FFFFFF" />
+
+</div>
 
 <div align="center">
  
-:raising_hand:
+:raising_hand: Hello, World :raising_hand:
 
 :pushpin: [Portfolio](https://jisu-seong.github.io/portfolio/)  :pushpin:
 
+</div>
+
+</br>
+
+<div align="center">
+
+### :books: Tech Stack :books:
+ 
 :pencil2: Platform & Languages :pencil2:
+
+</div>
+
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
