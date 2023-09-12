@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A6FF4D&height=190&section=header&text=Jisu-Seong&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15d615&height=190&section=header&text=Jisu-Seong&fontSize=50&fontColor=FFFFFF" />
 
 </div>
 
@@ -50,6 +50,6 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu-Seong&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jisu-Seong&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Jisu-Seong&show_icons=true&theme=shadow_green">
 </div>
 
