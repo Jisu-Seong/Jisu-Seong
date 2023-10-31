@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=15d615&height=190&section=header&text=Jisu-Seong&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15d615&height=190&section=header&text=Hello,World&fontSize=50&fontColor=FFFFFF" />
 
 </div>
 
 <div align="center">
- 
-:raising_hand: Hello, World :raising_hand:
 
 :pushpin: [Portfolio](https://jisu-seong.github.io/portfolio/)  :pushpin:
 
