@@ -10,7 +10,7 @@
 
 :pencil: [Study Note](https://almondine-talk-d7f.notion.site/Repo-a3a7f1bbab7e491b92e0d09aef7d20ce?pvs=4) :pencil:
 
-:blue_book: [Blog](https://oblog-azure.vercel.app/) :blue_book:
+:blue_book: [ObLog](https://oblog-azure.vercel.app/) :blue_book:
 
 </div>
 
